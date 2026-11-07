@@ -12,6 +12,8 @@ Chat Cleaner is a free Chrome extension that works with conversations currently 
 
 > **Beta:** Manual Chrome installation requires Developer Mode. Try it on a disposable chat first; deletion cannot be undone. This project is independent and is not affiliated with OpenAI.
 
+[![Preview of the Chat Cleaner free beta extension control panel](https://raw.githubusercontent.com/ops-by-amber/chat-cleaner-free-beta/main/assets/chat-cleaner-panel.png)](https://github.com/ops-by-amber/chat-cleaner-free-beta)
+
 ## What I'm working on
 
 - Human-centred AI adoption and workflow improvement
